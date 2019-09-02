@@ -5,7 +5,7 @@
     margin-bottom: 20px;
 }
 .side-nav {
-        height: 1875px;
+        height: 2715px;
         border-radius: 5px 0px 0px 5px;
         width: 30%;
         background: rgb(243,105,7);
@@ -43,7 +43,7 @@
 
 .details > section > i {
     font-size: 20px;
-    color: crimson;
+    color: black;
     margin-right: 5px;
 }
 
@@ -303,7 +303,7 @@ background: linear-gradient(90deg, rgba(196,227,226,1) 1%, rgba(37,191,176,1) 51
   }
 
   .achievements {
-    height: 550px;
+    height: 750px;
     padding: 20px;
     background: rgb(196,227,226);
 background: linear-gradient(90deg, rgba(196,227,226,1) 1%, rgba(37,191,176,1) 51%, rgba(123,199,231,1) 100%);
